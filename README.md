@@ -5,6 +5,15 @@
     
 # Table of contents 
 - [Objective](#Objective)
+- [Steps](#Steps)
+- [Design](#Design)
+    - [Procedure](#Procedure)
+    - [Tools](#Tools)
+
+- [Analysis](#Analysis)
+    - [Visualisations](#Visualisations)
+    - [Findings](#Findings)
+  
 
 
 

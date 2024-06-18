@@ -9,15 +9,14 @@
     - [Key Questions](#Key Questions)
 - [Data Sources](#Data Sources)
 
-- [Data Analysis](#Data Analysis)
+- [Data_Analysis](#Data_Analysis)
     - [Visuals](#Visuals)
     - [Findings](#Findings)
  
-- [Recommengations](#Recommengations)
+- [Recommendations](#Recommendations)
 
 
  
-- [Recommenations](#Recommenations)
   
 
 

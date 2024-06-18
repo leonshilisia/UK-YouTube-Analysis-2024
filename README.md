@@ -45,7 +45,10 @@ The Marketing Director aims to identify leading YouTubers in 2024 for potential 
  
 # Data_Analysis
 # Findings
-[Dashboard](/assets/Power%20BI%20Dashboard/You%20Tube%20Dashboard.pbix)
+[Power BI Dashboard](/assets/Power%20BI%20Dashboard/You%20Tube%20Dashboard.pbix)
+![PDF](assets/images/Dashboard.jpg)
+
+
 
 
 

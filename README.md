@@ -6,8 +6,8 @@
 # Table of contents 
 - [Introduction](#Introduction)
     - [Objective](#Objective)
-    - [Key Questions](#Key Questions)
-- [Data Sources](#Data Sources)
+    - [Key_Questions](#Key_Questions)
+- [Data_Sources](#Data_Sources)
 
 - [Data_Analysis](#Data_Analysis)
     - [Visuals](#Visuals)

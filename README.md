@@ -4,15 +4,18 @@
 ![Portfolio Logo](assets/images/Image 1.gif)
     
 # Table of contents 
-- [Objective](#Objective)
-- [Steps](#Steps)
-- [Design](#Design)
-    - [Procedure](#Procedure)
-    - [Tools](#Tools)
+- [Introduction](#Introduction)
+    - [Objective](#Objective)
+    - [Key Questions](#Key Questions)
+- [Data Sources](#Data Sources)
 
-- [Analysis](#Analysis)
-    - [Visualisations](#Visualisations)
+- [Data Analysis](#Data Analysis)
+    - [Visuals](#Visuals)
     - [Findings](#Findings)
+ 
+- [Recommengations](#Recommengations)
+
+
  
 - [Recommenations](#Recommenations)
   

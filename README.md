@@ -1,9 +1,5 @@
-# Data Portfolio
-logo: C:\Users\Admin\OneDrive\Pictures\logos\png
+# Data Analysis  Portfolio
+## Leon Shilisia
 
 
-This is my portfolio website 
-
-
-😂
   

@@ -131,8 +131,8 @@ FROM uk_data_view
   ```
 # Findings
 [Power BI Dashboard](/assets/Power%20BI%20Dashboard/You%20Tube%20Dashboard.pbix)
-![PDF](assets/images/Dashboard.jpg)
-
+![Dashbpard Image](assets/images/Dashboard.jpg)
+![Analysis](assets/images/Analysis.jpg)
 We discovered that :
 1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
 2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded

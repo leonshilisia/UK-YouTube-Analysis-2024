@@ -16,6 +16,34 @@
 - [Recommendations](#Recommendations)
 
 
+# Introduction
+
+# Objective
+- Main Objective
+
+The Marketing Director aims to identify leading YouTubers in 2024 for potential collaboration on marketing campaigns for the year.
+
+
+# Key_Questions
+- To carry out Analysis find out :
+    - subscriber count
+    - total views
+    - total videos, and
+    - engagement metrics
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
  
   
 

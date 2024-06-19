@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
     - [Objective](#objective)
     - [Key Questions](#Key_Questions)
-- [Data Sources](#data_Sources)
+- [Data Sources](#data-sources)
 - [Data Analysis](#data_Analysis)
     - [Procedure](#Procedure)
     - [Findings](#Findings)
@@ -42,7 +42,7 @@ The Marketing Director aims to identify leading YouTubers in 2024 for potential 
     - total videos uploaded
  
  
-# Data Analysis
+# data-analysis
 
 ## Tools 
 

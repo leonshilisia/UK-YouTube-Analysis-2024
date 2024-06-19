@@ -4,10 +4,10 @@
 ![Portfolio Logo](assets/images/Image 1.gif)
     
 # Table of contents 
-- [Introduction](#Introduction)
-    - [Objective](#Objective)
-    - [Key_Questions](#Key_Questions)
-- [Data_Sources](#Data_Sources)
+- [Introduction](#introduction)
+    - [Objective](#objective)
+    - [Key Questions](#Key_Questions)
+- [Data Sources](#data_Sources)
 
 - [Data_Analysis](#Data_Analysis)
     - [Procedure](#Procedure)
@@ -24,7 +24,7 @@
 The Marketing Director aims to identify leading YouTubers in 2024 for potential collaboration on marketing campaigns for the year.
 
 
-# Key_Questions
+# Key Questions
 1. Who are the top 10 YouTubers with the most subscribers?
 2. Which 3 channels have uploaded the most videos?
 3. Which 3 channels have the most views?
@@ -58,11 +58,11 @@ The Marketing Director aims to identify leading YouTubers in 2024 for potential 
 
 # Procedure
 1. Get the data
-2. Explore and clean the data in Excel
-3. Load the data into SQL Server
+2. Explore  data in Excel
+3. Load and clean data in SQL Server
 4. Test the data with SQL
-5. Visualize the data in Power BI
-6. Generate the findings based on the insights
+5.Load and  Visualize the data in Power BI
+6. Generate  findings based on the insights
 7. Design Recommendations
 8. Publish the data to GitHub Pages
 

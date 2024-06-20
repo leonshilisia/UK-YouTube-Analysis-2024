@@ -129,7 +129,7 @@ FROM uk_data_view
     having name_count > 1;
   ```
 # Visuals
-[Power BI Dashboard](assets/Power BI Dashboard/You Tube Dashboard.pbix)
+[Dpwnload Power BI Dashboard](assets/Power BI Dashboard/You Tube Dashboard.pbix)
 ![Dashbpard Image](assets/images/Dashboard.jpg)
 ![Analysis](assets/images/Analysis.jpg)
 We discovered that :

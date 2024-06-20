@@ -10,7 +10,7 @@
 - [Data Sources](#data_sources)
 - [Data Analysis](#data_analysis)
     - [Procedure](#Procedure)
-    - [Findings](#Findings)
+    - [Visuals](#Visuals)
  
 - [Recommendations](#Recommendations)
 
@@ -128,8 +128,8 @@ FROM uk_data_view
     GROUP BY Channel_Name
     having name_count > 1;
   ```
-# Findings
-[Power BI Dashboard](/assets/Power%20BI%20Dashboard/You%20Tube%20Dashboard.pbix)
+# Visuals
+[Power BI Dashboard](assets/Power BI Dashboard/You Tube Dashboard.pbix)
 ![Dashbpard Image](assets/images/Dashboard.jpg)
 ![Analysis](assets/images/Analysis.jpg)
 We discovered that :

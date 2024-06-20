@@ -6,13 +6,13 @@
 # Table of contents 
 - [Introduction](#introduction)
     - [Objective](#objective)
-    - [Key Questions](#Key_Questions)
+    - [Key Questions](#Key_questions)
 - [Data Sources](#data_sources)
 - [Data Analysis](#data_analysis)
-    - [Procedure](#Procedure)
-    - [Visuals](#Visuals)
+    - [Procedure](#procedure)
+    - [Visuals](#visuals)
  
-- [Recommendations](#Recommendations)
+- [Recommendations](#recommendations)
 
 
 # Introduction

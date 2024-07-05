@@ -49,8 +49,8 @@ The Marketing Director aims to identify leading YouTubers in 2024 for potential 
 
 | Tool | Purpose |
 | --- | --- |
-| Excel | Exploring and cleaning the data |
-| SQL Server | Testing and analyzing the data |
+| Excel | Exploring  the data |
+| SQL Server | Testing and  cleaning the data |
 | Power BI | Visualizing the data via interactive dashboards |
 | GitHub | Hosting the project documentation and version control |
 
@@ -129,7 +129,7 @@ FROM uk_data_view
     having name_count > 1;
   ```
 # Visuals
-[Dpwnload Power BI Dashboard](assets/Power BI Dashboard/You Tube Dashboard.pbix)
+[Download Power BI Dashboard](assets/Power BI Dashboard/You Tube Dashboard.pbix)
 ![Dashbpard Image](assets/images/Dashboard.jpg)
 ![Analysis](assets/images/Analysis.jpg)
 We discovered that :
